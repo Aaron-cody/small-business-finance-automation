@@ -1,0 +1,12 @@
+expense_id,vendor_name,expense_date,category,amount,missing_category_flag,invalid_amount_flag,invalid_date_flag
+EXP-2001,Office Depot,2026-01-07,Office Supplies,260,False,False,False
+EXP-2002,Cloudhost,2026-01-15,Software,120,False,False,False
+EXP-2003,City Utilities,2026-02-04,Utilities,410,False,False,False
+EXP-2004,Office Depot,2026-02-18,Office Supplies,180,False,False,False
+EXP-2005,Freelance Design Co,2026-03-03,Uncategorized,900,True,False,False
+EXP-2006,Cloudhost,2026-03-15,Software,120,False,False,False
+EXP-2007,Metro Ads,2026-04-01,Marketing,750,False,False,False
+EXP-2008,City Utilities,2026-04-05,Utilities,-80,False,True,False
+EXP-2009,Freelance Design Co,2026-05-09,Contractors,1100,False,False,False
+EXP-2010,Metro Ads,2026-05-20,Marketing,600,False,False,False
+EXP-2011,Cloudhost,2026-06-01,Uncategorized,130,True,False,False

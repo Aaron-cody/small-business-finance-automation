@@ -1,0 +1,13 @@
+expense_id,vendor_name,expense_date,category,amount
+EXP-2001,Office Depot,2026-01-07,office supplies,260
+EXP-2002, CloudHost ,01/15/2026,software,120
+EXP-2003,city utilities,2026/02/04,Utilities,410
+EXP-2004,Office Depot,2026-02-18,Office Supplies,180
+EXP-2005,Freelance Design Co,03-03-2026,,900
+EXP-2006,Cloudhost,2026-03-15,Software,120
+EXP-2007,Metro Ads,2026-04-01,marketing,750
+EXP-2008,City Utilities,2026-04-05,utilities,-80
+EXP-2009,Freelance Design Co,2026-05-09,contractors,1100
+EXP-2010,Metro Ads,05/20/2026,Marketing,600
+EXP-2011,CloudHost,2026-06-01,,130
+EXP-2007,Metro Ads,2026-04-01,marketing,750

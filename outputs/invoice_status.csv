@@ -1,0 +1,12 @@
+invoice_id,customer_name,invoice_date,due_date,amount,status,missing_invoice_id_flag,invalid_amount_flag,invalid_date_flag,amount_paid,amount_unpaid,is_unpaid,is_overdue
+INV-1001,Acme Retail,2026-01-05,2026-02-04,2400,Paid,False,False,False,2400.0,0.0,False,False
+INV-1002,Blue Sky Cafe,2026-01-18,2026-02-17,1800,Paid,False,False,False,1800.0,0.0,False,False
+INV-1003,Northwind Studio,2026-02-03,2026-03-05,3200,Unpaid,False,False,False,0.0,3200.0,True,True
+INV-1004,Acme Retail,2026-02-15,2026-03-17,1500,Paid,False,False,False,1500.0,0.0,False,False
+,Green Garden Co,2026-03-01,2026-03-31,950,Unpaid,True,False,False,0.0,950.0,True,True
+INV-1007,Summit Events,2026-04-02,2026-05-02,4100,Paid,False,False,False,4100.0,0.0,False,False
+INV-1008,Northwind Studio,2026-04-20,2026-05-20,2750,Unpaid,False,False,False,0.0,2750.0,True,True
+INV-1009,Green Garden Co,2026-05-01,2026-05-31,1200,Overdue,False,False,False,0.0,1200.0,True,True
+INV-1010,Bright Books,2026-05-16,2026-06-15,2200,Unpaid,False,False,False,0.0,2200.0,True,False
+INV-1011,Acme Retail,2026-05-22,2026-06-21,1750,Paid,False,False,False,1750.0,0.0,False,False
+INV-1012,Summit Events,2026-06-01,2026-07-01,3650,Unpaid,False,False,False,0.0,3650.0,True,False

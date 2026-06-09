@@ -1,0 +1,14 @@
+dataset,issue_type,issue_count,notes
+invoices,duplicate_rows_removed,1,Exact duplicate invoice rows removed.
+invoices,missing_invoice_ids,1,Invoices without an ID need manual follow-up.
+invoices,invalid_or_negative_amounts,1,Amounts must be positive numbers.
+invoices,invalid_dates,0,Invoice and due dates must parse correctly.
+expenses,duplicate_rows_removed,1,Exact duplicate expense rows removed.
+expenses,missing_categories,2,Missing categories set to Uncategorized.
+expenses,invalid_or_negative_amounts,1,Amounts must be positive numbers.
+expenses,invalid_dates,0,Expense dates must parse correctly.
+payments,duplicate_rows_removed,1,Exact duplicate payment rows removed.
+payments,missing_invoice_ids,1,Payments without invoice IDs cannot be matched.
+payments,unknown_invoice_ids,2,Payments linked to invoice IDs not found in invoice data.
+payments,invalid_or_negative_amounts,1,Paid amounts must be positive numbers.
+payments,invalid_dates,0,Payment dates must parse correctly.

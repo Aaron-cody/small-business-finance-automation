@@ -1,0 +1,2 @@
+"""Finance automation pipeline modules."""
+

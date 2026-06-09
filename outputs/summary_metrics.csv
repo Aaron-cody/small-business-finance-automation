@@ -1,0 +1,10 @@
+metric,value
+total_invoiced_revenue,25500.0
+total_expenses,4570.0
+total_amount_paid,11800.0
+unpaid_invoice_amount,13950.0
+overdue_invoice_amount,8100.0
+net_cashflow,7230.0
+open_invoice_count,6.0
+overdue_invoice_count,4.0
+data_quality_issues_found,12.0
